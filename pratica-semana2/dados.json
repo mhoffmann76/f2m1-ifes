@@ -1,0 +1,79 @@
+{
+  "usuarios": [
+    {
+      "nome": "Marcelo Hoffmann",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    },
+
+    {
+      "nome": "Ana da Silva",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    },
+
+    {
+      "nome": "Carolina",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    },
+
+    {
+      "nome": "Renata",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    },
+
+    {
+      "nome": "Paula",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    },
+
+    {
+      "nome": "Matheus",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    },
+    {
+      "nome": "Carolina",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    },
+    {
+      "nome": "Carolina",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    },
+    {
+      "nome": "Carolina",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    },
+    {
+      "nome": "Carolina",
+      "endereco": "Avenida da sorte",
+      "nacionalidade": "Brasileiro",
+      "idade": "29",
+      "sexo": "Masculico"
+    }
+  ]
+}
